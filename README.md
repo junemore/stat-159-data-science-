@@ -6,9 +6,11 @@ The goal of this project is for you to analyze the State of the Union speeches f
 
 ## Team setup and logistics
 
-**Due date:** the last commit should be no later than Friday, November 17th, at 11pm local (Pacific) Time.
+**Due date:** the last commit should be no later than *Friday, November 17th, at 11pm local (Pacific) Time*.
 
 **Teams:** the project is to be completed in teams of three.  You should preferably form teams that consist of people all in the same lab session, as we will allow lab time to work on this project with Eli's assistance.
+
+**Team names:** create your team named p2-XX-YY-ZZ, where XX, YY and ZZ are the first two letters of each member's last name.
 
 ## Notes and guidelines
 
