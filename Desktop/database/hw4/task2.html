@@ -1,0 +1,32 @@
+<html>
+	<head></head>
+	<body>
+		<p>Please type whatever you want to query</p>
+			<form method="POST" action="task2.php">
+				<table width='600px' border='1px'>
+					<tr>
+						<th>Call_Procedure</th>
+						<th>Procedure_Definition</th>
+						<th>Input Parameter1</th>
+						<th>Input Parameter2</th>
+						<th>Run</th>
+					</tr>
+					<tr>
+						<td>TopBusinessOfDay</td>
+						<td>the business (user input business type, such as 'Restaurants', 'Sandwiches' and 'Hair Salons') that has the most reviews on specific day(user input date)</td>
+						<td>Givenbusiness: <input type="text" name="business"></td>
+						<td>Givendate: input like this format 'yyyy-mm-dd'<input type="text" name="givendate"></td>
+						<td><input type="submit" name="submit" value="action1"></td>
+					</tr> 
+
+					<tr>
+						<td>Top10StarsBusiness</td>
+						<td>Top 10 averaged review stars businesses from users who have more than 10 fans on specific year(user input the begindate and enddate)</td>
+						<td>Beginyear: input like this format 'yyyy-mm-dd'<input type="text" name="beginyear"></td>
+						<td>Endyear: input like this format 'yyyy-mm-dd'<input type="text" name="endyear"></td>
+						<td><input type="submit" name="submit" value="action2"></td>
+					</tr> 
+				</table>
+			</form>
+	</body>
+</html>
